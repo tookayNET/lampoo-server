@@ -2,7 +2,7 @@
 ## SERVER setup
 This exercise requires both the server and client to be setup.
 
-The client instructions can be found in the *CLIENT repo* README.MD.
+The client instructions can be found in the *CLIENT repo* README.MD at https://github.com/tookayNET/lampoo-client.git.
 
 ---
 ## Design
